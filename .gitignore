@@ -32,3 +32,5 @@ Makefile.in
 /configure
 /dist
 /tmp-build
+
+build
